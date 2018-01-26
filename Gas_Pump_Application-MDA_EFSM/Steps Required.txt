@@ -1,0 +1,5 @@
+Steps Required to Run the Project
+
+1.Import the jar file to eclipse
+2.Run the Project by doing right click and select run as java application
+3.Follow the instructions in the console window 
